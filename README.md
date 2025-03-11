@@ -2,9 +2,9 @@
 
 Submitted by: Jordan Dominguez
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+BitFit-2 is a health metrics app that allows users to track Sleep
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
