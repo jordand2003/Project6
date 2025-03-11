@@ -1,6 +1,6 @@
 # Android Project 6 - BitFit-2
 
-Submitted by: **Your Name Here**
+Submitted by: Jordan Dominguez
 
 **Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
