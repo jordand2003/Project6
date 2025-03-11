@@ -1,4 +1,4 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - BitFit-2
 
 Submitted by: **Your Name Here**
 
